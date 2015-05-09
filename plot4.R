@@ -1,5 +1,5 @@
 ##### This programs creates the plot to PNG file.
-##### For plot3,png
+##### For plot4.png
 #####
 
 ###### Load data

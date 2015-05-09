@@ -1,6 +1,6 @@
 
 ##### This programs creates the plot to PNG file.
-#####
+##### for plot2.png
 
 ###### Load data
 DF <- read.csv("household_power_consumption.txt", sep=";", colClasses = c("character", "character", rep("numeric",7)),na = "?")
